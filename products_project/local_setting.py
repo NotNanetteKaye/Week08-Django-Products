@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-t!)^_a!@7(7hw728$s$y@8t^inxa5rb0i^5z4s^2imr99a+ov7
 DATABASES = {
     'default': {
         'ENGINE': 'mysql.connector.django',
-        'NAME': 'product_database',
+        'NAME': 'products_database',
         'USER': 'root',
         'PASSWORD': 'AteDarling1!!!',
         'HOST': '127.0.0.1',
